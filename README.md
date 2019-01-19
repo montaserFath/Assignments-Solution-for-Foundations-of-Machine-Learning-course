@@ -1,5 +1,5 @@
 # Assignmnets Foundations of Machine Learning
-In this repo assignments which is apart of [Foundations of Machine Learning (FML)](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning) courese or Mathimatical of Machine Learning teached by [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth/) at [African Master in Machine Intelligence (AMMI)](aims-ammi.org)
+In this repo assignments which is apart of [Foundations of Machine Learning (FML)](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning) course or Mathematical of Machine Learning teach by [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth) at [African Master in Machine Intelligence(AMMI)](https://aimsammi.org)
 
 The main idea from assignments is to implement Machine Learning algorithm from scratch to give you a good intuition how these methods work and how to develop it. 
 
@@ -24,8 +24,9 @@ The main idea from assignments is to implement Machine Learning algorithm from s
 - [Logistic Regression](https://github.com/montaserFath/Assignmnets-Fundamentals-of-ML-AMMI/blob/master/logistic_regression_assignment_MontaserMohammedalamen.ipynb)
 
 # Installing
-`pip install numpy'
-'pip install scrip`
+`pip install numpy`
+
+`pip install scrip`
 
 # Data-sets
 MN
@@ -33,6 +34,6 @@ Fashon
 
 # References
 
-- [Course Matrials](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning)
+- [Course Materials](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning)
 
 - [Mathimatical of Machine Learning Book](https://mml-book.github.io/)
