@@ -38,4 +38,4 @@ Fashon
 
 - [Mathimatical of Machine Learning Book](https://mml-book.github.io/)
 
--Marc blog ["My four-month sabbatical at AIMS Rwanda"](https://aimsammi.org/blog-post/my-four-month-sabbatical-at-aims-rwanda-part-one/)
+- Marc blog ["My four-month sabbatical at AIMS Rwanda"](https://aimsammi.org/blog-post/my-four-month-sabbatical-at-aims-rwanda-part-one/)
