@@ -1,4 +1,4 @@
-# Assignmnets Solution for Foundations of Machine Learning course
+# Assignments Solution for Foundations of Machine Learning course
 In this repo assignments which is apart of [Foundations of Machine Learning (FML)](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning) course or Mathematical of Machine Learning teach by [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth) at [African Master in Machine Intelligence(AMMI)](https://aimsammi.org)
 
 The main idea from assignments is to implement Machine Learning algorithm from scratch to give you a good intuition how these methods work and how to develop it. 
